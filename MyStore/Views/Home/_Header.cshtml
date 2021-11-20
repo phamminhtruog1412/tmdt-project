@@ -1,0 +1,74 @@
+﻿@model Model.EF.User
+<style>
+    .w3l_search{
+        margin-left:400px !important;
+        padding-top:0px;
+        margin-bottom:5px;
+        padding-bottom:1px;
+    }
+    .w3l_search input[type="submit"]{
+        padding:8px 0 10px;
+        border:0.5px solid #00ff21;
+    }
+    
+</style>
+<div class="agileits_header" style="padding-left: 100px;height:45px;">
+    <div class="w3l_search">
+        @using (Html.BeginForm("SearchProducts", "Product", routeValues: null, method: FormMethod.Get))
+            {
+            @Html.TextBox("name", (string)ViewBag.name, new { @placeholder = "Từ khóa tìm kiếm", @autocomplete = "off" })
+            <input type="submit" value="" title="Tìm kiếm">
+        }
+    </div>
+    <div class="product_list_header">
+        @using (Html.BeginForm("Index", "Cart", method: FormMethod.Post))
+            {
+            <input type="submit" value="Xem giỏ hàng" class="button" />
+        }
+    </div>
+    <div class="w3l_header_right">
+
+        @if (Model != null)
+        {
+            if (Model.Name != null)
+            {
+                <h5>Xin chào: @Model.Name </h5>
+            }
+            else
+            {
+                <h5>Xin chào: @Model.UserName </h5>
+            }
+
+        }
+        else
+        {
+            <h5 title="Đăng nhập để được hỗ trợ tốt nhất!">Vui lòng đăng nhập</h5>
+        }
+    </div>
+    <div class="w3l_header_right1">
+        <ul>
+            <li class="dropdown profile_details_drop">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown"><i class="fa fa-user" aria-hidden="true"></i><span class="caret"></span></a>
+                <div class="mega-dropdown-menu">
+                    <div class="w3ls_vegetables">
+                        <ul class="dropdown-menu drp-mnu">
+                            @if (Model == null)
+                            {
+                                <li><a href="/dang-ky">Đăng ký</a></li>
+                                <li><a href="/dang-nhap">Đăng nhập</a></li>
+                            }
+                            else
+                            {
+                                <li><a href="/thong-tin-ca-nhan">Thông tin</a></li>
+                                <li><a href="/lich-su-giao-dich">Lịch sử giao dịch</a></li>
+                                    <li><a href="/Login/Logout">Đăng xuất</a></li>
+                            }
+                        </ul>
+                    </div>
+                </div>
+            </li>
+        </ul>
+    </div>
+    <div class="clearfix"> </div>
+</div>
+

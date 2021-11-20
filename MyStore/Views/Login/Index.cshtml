@@ -1,0 +1,71 @@
+﻿@model Model.EF.User
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_layout.cshtml";
+}
+
+@section category{
+    Đăng nhập tài khoản
+}
+
+<div class="w3_login">
+    @if (TempData["RegisterMessage"] != null)
+    {
+        Response.Write("<script>alert('Đăng kí thành công! Đăng nhập để được hỗ trợ tốt hơn')</script>");
+    }
+    <h3>ĐĂNG NHẬP & ĐĂNG KÝ</h3>
+    <style>
+        .w3_login h3 {
+            font-style: normal;
+            font-family: Tahoma, Times, serif !important;
+        }
+
+        .form {
+            font-family: Tahoma;
+        }
+    </style>
+    <div class="w3_login_module">
+        <div class="module form-module">
+            <div class="toggle">
+                <i class="fa fa-times fa-pencil"></i>
+                <div class="tooltip">Click</div>
+            </div>
+            <div class="form">
+                <h2>Mời nhập thông tin đăng nhập</h2>
+                @using (Html.BeginForm("Index", "Login", FormMethod.Post, new { @role = "form" }))
+                {
+                    @Html.TextBoxFor(model => model.UserName, new { @class = "form-control", placeholder = "Username", required = " ", type = "text" })
+                    @Html.TextBoxFor(model => model.Password, new { @class = "form-control", placeholder = "Password", required = " ", type = "password" })
+                    <input type="submit" value="Đăng nhập" style="background:blue">
+                }
+            </div>
+            <div class="form">
+                <h2>Nhập thông tin đăng ký</h2>
+                @using (Html.BeginForm("Register", "Login", FormMethod.Post, new { @role = "form" }))
+                {
+                    @Html.TextBoxFor(model => model.UserName, new { @class = "form-control", placeholder = "Username", type = "text" })
+                    @Html.TextBoxFor(model => model.Password, new { @class = "form-control", placeholder = "Password", type = "password" })
+                    @Html.TextBoxFor(model => model.Email, new { @class = "form-control", placeholder = "Email Address", type = "email" })
+                    @Html.TextBoxFor(model => model.Phone, new { @class = "form-control", placeholder = "Phone Number", type = "text" })
+                    <input type="submit" value="Đăng ký" style="background:blue">
+                }
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+				$('.toggle').click(function(){
+				  // Switches the Icon
+				  $(this).children('i').toggleClass('fa-pencil');
+				  // Switches the forms
+				  $('.form').animate({
+					height: "toggle",
+					'padding-top': 'toggle',
+					'padding-bottom': 'toggle',
+					opacity: "toggle"
+				  }, "slow");
+				});
+</script>
+
+
+<!-- //login -->

@@ -1,0 +1,53 @@
+﻿@model IEnumerable< Model.EF.Order>
+@{
+    ViewBag.Title = "ShowTransactionHistory";
+    Layout = "~/Views/Shared/_layout.cshtml";
+}
+
+@section category{
+    Lịch sử giao dịch
+}
+
+
+
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <td>#</td>
+            <td>Mã đơn hàng</td>
+            <td>Địa chỉ</td>
+            <td>Ghi chú</td>
+            <td>Thông báo</td>
+            <td>Tình trạng đơn hàng</td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td><a href="/chi-tiet-don-hang?id=@item.OrderID"><span class="label label-info">Chi tiết</span></a></td>
+                <td>@item.OrderID</td>
+                @{
+                    var tinhTrang = "";
+                    switch(item.Status)
+                    {
+                        case 0:
+                            tinhTrang = "Đang xử lý";
+                            break;
+                        case 1:
+                            tinhTrang = "Đã giao hàng";
+                            break;
+                        case 2:
+                            tinhTrang = "Đã hủy";
+                            break;
+                    }
+                        }
+                <td>@item.shipAddress</td>
+                <td>@item.note</td>
+                <td>@item.cancelNote</td>
+                <td>@tinhTrang</td>
+            </tr>
+        }
+    </tbody>
+</table>
+

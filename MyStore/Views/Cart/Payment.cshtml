@@ -1,0 +1,143 @@
+﻿@model Model.EF.Order
+@using MyStore.Assets.Constant;
+@{
+    ViewBag.Title = "Payment";
+    Layout = "~/Views/Shared/_layout.cshtml";
+}
+
+@{
+    var session = Session[Constant.CUSTOMER_SESSION];
+ }
+
+@section category{
+    Đặt hàng
+}
+
+@section jsfooter{
+    <script>
+        $('#btnLogin').off('click').on('click', function () {
+            window.location.href = '/dang-nhap'
+        }),
+        $('#btnRegister').off('click').on('click', function () {
+            window.location.href = '/dang-ky'
+        }),
+        $('#btnInfor').off('click').on('click', function () {
+            window.location.href = '/thong-tin-ca-nhan'
+        })
+    </script>    
+}
+
+<div class="agileinfo_single">
+
+
+    <div class="agileinfo_mail_grids">
+
+        
+            @if (Session[Constant.CUSTOMER_SESSION] != null)
+            {
+                using (Html.BeginForm("PaymentWithLogin", "Cart", FormMethod.Post, new { @role = "form" }))
+                {
+                    @Html.AntiForgeryToken()
+                    <div class="col-md-12 agileinfo_mail_grid_left">
+                        @Html.Label("Chúng tôi sẽ sử dụng thông tin cá nhân của bạn để vận chuyển và thanh toán hàng hóa, vui lòng kiểm tra lại chính xác và đầy đủ thông tin cá nhân của bạn trước khi đặt hàng:", htmlAttributes: new { @class = "control-label col-md-12", @style = "text-align:left ; margin-bottom: 10px;" })
+                        <div class="form-group">
+                            @Html.Label("Ghi chú cho đơn hàng", htmlAttributes: new { @class = "control-label col-md-3", @style = "text-align:left" })
+                            <div class="col-md-9">
+                                <input type="text" name="note" class="form-control" />
+                            </div>
+                        </div><hr />
+                        <div class="col-md-6 col-lg-offset-4">
+                            <button type="submit" id="btnOrder" class="btn">Đặt hàng</button>
+                            <button type="button" id="btnInfor" class="btn">Thông tin</button>
+                        </div>
+
+                    </div>
+                }
+
+            }
+            else
+            {
+
+                using (Html.BeginForm("Payment", "Cart", FormMethod.Post, new { @role = "form" }))
+                {
+                        @Html.AntiForgeryToken()
+
+                    <div class="col-md-6 agileinfo_mail_grid_right">
+                        <div class="form-horizontal">
+                            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                            <div class="form-group">
+                                @Html.Label("Họ tên", htmlAttributes: new { @class = "control-label col-md-3", @style = "text-align:left" })
+                                <div class="col-md-9">
+                                    @Html.TextBoxFor(model => model.shipName, new { @class = "form-control" })
+                                    @Html.ValidationMessageFor(model => model.shipName, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                @Html.Label("SĐT", htmlAttributes: new { @class = "control-label col-md-3", @style = "text-align:left" })
+                                <div class="col-md-9">
+                                    @Html.TextBoxFor(model => model.shipPhone, new { @class = "form-control" })
+                                    @Html.ValidationMessageFor(model => model.shipPhone, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                @Html.Label("Địa chỉ", htmlAttributes: new { @class = "control-label col-md-3", @style = "text-align:left" })
+                                <div class="col-md-9">
+                                    @Html.TextBoxFor(model => model.shipAddress, new { @class = "form-control" })
+                                    @Html.ValidationMessageFor(model => model.shipAddress, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                @Html.Label("Email", htmlAttributes: new { @class = "control-label col-md-3", @style = "text-align:left" })
+                                <div class="col-md-9">
+                                    @Html.TextBoxFor(model => model.shipEmail, new { @class = "form-control",type = "email" })
+                                    @Html.ValidationMessageFor(model => model.shipEmail, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                @Html.Label("Ghi chú", htmlAttributes: new { @class = "control-label col-md-3", @style = "text-align:left" })
+                                <div class="col-md-9">
+                                    @Html.TextBoxFor(model => model.note, new { @class = "form-control" })
+                                    @Html.ValidationMessageFor(model => model.note, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <div class="col-md-offset-2 col-md-10">
+                                    <button type="submit" class="btn" style="color:black;">Gửi đơn hàng</button>
+                                    <button type="button" class="btn btnContinue">Tiếp tục mua hàng</button>
+                                </div>
+                            </div>
+                        </div>
+                        </div>
+                        
+                        }
+
+                        <div class="col-md-6 agileinfo_mail_grid_right">
+
+                            @Html.Label("Hoặc đăng nhập để chúng tôi có thể hỗ trợ bạn tốt hơn!", htmlAttributes: new { @class = "control-label col-md-12", @style = "text-align:left" })
+
+                            @Html.Label("Nếu bạn chưa có tài khoản , vui lòng đăng ký tại:", htmlAttributes: new { @class = "control-label col-md-12", @style = "text-align:left" })
+
+                            <div class="btn col-lg-6 col-lg-offset-3">
+                                <button type="button" id="btnLogin" class="btn">Đăng nhập</button>
+                                <button type="button" id="btnRegister" class="btn">Đăng ký</button>
+                            </div>
+
+                        </div>
+                        }
+
+
+
+
+
+
+                        <div class="clearfix"> </div>
+                    </div>
+
+</div>
+
+

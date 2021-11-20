@@ -1,0 +1,53 @@
+﻿@using PagedList.Mvc;
+@model PagedList.IPagedList<Model.ViewModel.ProductViewModel>
+
+@{
+    ViewBag.Title = "Thống kê sản phẩm tồn kho";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+@section header {
+    Thống kê sản phẩm tồn kho
+}
+<div class="panel panel-default">
+    <div class="panel-heading">
+        Danh sách
+    </div>
+
+
+    <!-- /.panel-heading -->
+    <div class="panel-body">
+        <div class="table-responsive">
+            @using (Html.BeginForm("ProductQuantityInStock", "Analytics", FormMethod.Get))
+            {
+
+                <table class="table table-striped table-bordered table-hover">
+                    <thead>
+                        <tr>
+                            <th>#</th>
+                            <th>Tên sp</th>
+                            <th>Số lượng tồn</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+
+                        @foreach (var item in Model)
+                        {
+                            <tr id="row_@item.ProductID">
+                                <td>
+                                    @Html.ActionLink("Sửa", "Edit", new { @id = item.ProductID }) | <a href="#" class="deleteProduct" data-proid="@item.ProductID">Xóa</a>
+                                </td>
+                                <td>@item.ProductName</td>
+                                <td>@item.Quantity</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+                @Html.PagedListPager(Model, page => Url.Action("index", new { page }))
+            }
+
+        </div>
+        <!-- /.table-responsive -->
+    </div>
+    <!-- /.panel-body -->
+</div>

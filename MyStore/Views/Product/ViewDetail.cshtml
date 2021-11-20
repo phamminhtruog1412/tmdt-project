@@ -1,0 +1,222 @@
+﻿@model Model.EF.Product
+@using MyStore.Assets.Constant;
+@{
+    ViewBag.Title = "ViewDetail";
+    Layout = "~/Views/Shared/_layout.cshtml";
+    var listOfSuggestions = (List<Model.EF.Product>)ViewBag.listOfSuggestions;
+    var listViewedProduct = (List<Model.EF.Product>)Session[Constant.VIEWEDPRODUCT];
+}
+
+
+@section header{
+<script src='/Assets/Client/js/okzoom.js'></script>
+    <script>
+    $(function(){
+      $('#example').okzoom({
+        width: 150,
+        height: 150,
+        border: "1px solid black",
+        shadow: "0 0 5px #000"
+      });
+    });
+</script>
+ 
+<style type="text/css">
+    	.agileinfo_single_left {
+		margin-bottom:15px !important;
+	}
+	.w3agile_description {
+		margin-top:10px !important;
+	}
+	.clear-left{
+		padding-left: 0em !important;
+	}
+	#descrip{
+		width:100% !important;
+		text-indent: 30px;
+	}
+	.w3agile_description p {
+		color:#333 !important;
+	}
+    .w3ls_w3l_banner_left_Fixed {
+        width:20% !important;
+    }
+</style> 
+}
+
+@section category{
+    @Model.ProductName    
+}
+<style>
+    .agileinfo_single h5{
+        text-align:center;
+    }
+    .clear-left{
+
+    }
+    .clearfix{
+        padding-bottom:0px;
+        margin-bottom:1px;
+    }
+  
+</style>
+<div class="agileinfo_single">
+        <h5>@Model.ProductName</h5>
+
+        <div class="col-md-12">
+            <div class="col-md-4 agileinfo_single_left">
+                <img id="example" src="@Model.Image" alt=" " class="img-responsive" />
+            </div>
+            <div class="col-md-8 agileinfo_single_right">
+                @Model.Description
+            </div>
+            <div class="clearfix"> </div>
+            <div class="agileinfo_single_right clear-left">
+                <div class="rating1">
+                    <span class="starRating">
+                        <input id="rating5" type="radio" name="rating" value="5">
+                        <label for="rating5">5</label>
+                        <input id="rating4" type="radio" name="rating" value="4"checked>
+                        <label for="rating4">4</label>
+                        <input id="rating3" type="radio" name="rating" value="3">
+                        <label for="rating3">3</label>
+                        <input id="rating2" type="radio" name="rating" value="2">
+                        <label for="rating2">2</label>
+                        <input id="rating1" type="radio" name="rating" value="1">
+                        <label for="rating1">1</label>
+                    </span>
+                </div>
+                <div class="w3agile_description">
+                    <h4><b>Chi tiết :</b></h4>
+                    @Html.Raw(Model.Detail)
+                </div>
+                <div class="snipcart-item block">
+                    <div class="snipcart-thumb agileinfo_single_right_snipcart">
+                        @if (Model.PromotionPrice != 0)
+                        {
+                            <h4>@Model.PromotionPrice.Value.ToString("0,0")đ  <span>@Model.Price.Value.ToString("0,0")đ</span></h4>
+                        }
+                        else
+                        {
+                            <h4>@Model.Price.Value.ToString("0,0")</h4>
+                        }
+                    </div>
+                    <div class="snipcart-details agileinfo_single_right_details">
+                        @using (Html.BeginForm("AddItem", "Cart", routeValues: new { @productID = Model.ProductID }, method: FormMethod.Post))
+                        {
+                            if (Model.Quantity <= 0)
+                            {
+                                <input type="submit" name="submit" disabled value="Hết hàng" class="button disabled" />
+                            }
+                            else
+                            {
+                                <input type="submit" name="submit" value="Thêm vào giỏ" class="button" />
+                            }
+
+                        }
+                    </div>
+                </div>
+            </div>
+           <br />
+        </div>
+    </div>
+<div class="clearfix"> </div>
+<style>
+    .col-md-3{
+        width:24% !important;
+    }
+</style>
+<div class="w3ls_w3l_banner_nav_right_grid1">
+    <h6>Sản phẩm cùng thể loại</h6>
+    @foreach (var item in listOfSuggestions)
+    {
+        <div class="col-md-3 w3ls_w3l_banner_left w3ls_w3l_banner_left_Fixed">
+            <div class="hover14 column">
+                <div class="agile_top_brand_left_grid w3l_agile_top_brand_left_grid">
+                    <div class="agile_top_brand_left_grid_pos">
+                        <img src="/Assets/Client/images/offer.png" class="img-responsive" />
+                    </div>
+                    <div class="agile_top_brand_left_grid1">
+                        <figure>
+                            <div class="snipcart-item block">
+                                <div class="snipcart-thumb">
+                                    <a class="product-image-container" href="/chi-tiet/@item.MetaTitle-@item.ProductID" style="background-image: url(@item.Image)">
+                                    @*<img src="@item.Image" alt="" class="img-responsive" />*@
+                                    </a>
+                                    @*<a href="/Product/ViewDetail?proID=@item.ProductID"><img src="@item.Image" alt="" class="img-responsive" /></a>*@
+                                    @if (@item.ProductName.Length > 19)
+                                    {
+                                        <a title="@item.ProductName" href=""><p>@item.ProductName.Substring(0, 19).Insert(19, "...")</p></a>
+                                    }
+                                    else
+                                    {
+                                        <p>@item.ProductName</p>
+                                    }
+                                    @if (item.PromotionPrice != null && item.PromotionPrice != 0)
+                                    {
+                                        <h4>  @item.PromotionPrice.Value.ToString("0,0")đ<span>@item.Price.Value.ToString("0,0")đ</span></h4>
+                                    }
+                                    else
+                                    {
+                                        <h4>@item.Price.Value.ToString("0,0")</h4>
+                                    }
+
+                                </div>
+                            </div>
+                        </figure>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+    <div class="clearfix"> </div>
+</div>
+
+<div class="w3ls_w3l_banner_nav_right_grid1">
+    <h6>Sản phẩm đã xem</h6>
+    @foreach (var item in listViewedProduct)
+    {
+        <div class="col-md-3 w3ls_w3l_banner_left w3ls_w3l_banner_left_Fixed">
+            <div class="hover14 column">
+                <div class="agile_top_brand_left_grid w3l_agile_top_brand_left_grid">
+                    <div class="agile_top_brand_left_grid_pos">
+                        <img src="/Assets/Client/images/offer.png" class="img-responsive" />
+                    </div>
+                    <div class="agile_top_brand_left_grid1">
+                        <figure>
+                            <div class="snipcart-item block">
+                                <div class="snipcart-thumb">
+                                    <a class="product-image-container" href="/chi-tiet/@item.MetaTitle-@item.ProductID" style="background-image: url(@item.Image)">
+                                    @*<img src="@item.Image" alt="" class="img-responsive" />*@
+                                    </a>
+                                    @*<a href="/Product/ViewDetail?proID=@item.ProductID"><img src="@item.Image" alt="" class="img-responsive" /></a>*@
+                                    @if (@item.ProductName.Length > 19)
+                                    {
+                                        <a title="@item.ProductName" href=""><p>@item.ProductName.Substring(0, 19).Insert(19, "...")</p></a>
+                                    }
+                                    else
+                                    {
+                                        <p>@item.ProductName</p>
+                                    }
+                                    @if (item.PromotionPrice != null && item.PromotionPrice != 0)
+                                    {
+                                        <h4>  @item.PromotionPrice.Value.ToString("0,0")đ<span>@item.Price.Value.ToString("0,0")đ</span></h4>
+                                    }
+                                    else
+                                    {
+                                        <h4>@item.Price.Value.ToString("0,0")</h4>
+                                    }
+
+                                </div>
+                            </div>
+                        </figure>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+    <div class="clearfix"> </div>
+</div>
+
+
+

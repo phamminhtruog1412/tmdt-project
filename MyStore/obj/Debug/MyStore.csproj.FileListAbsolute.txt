@@ -1,0 +1,631 @@
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\ApplicationInsights.config
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\roslyn\csc.exe
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\roslyn\vbc.exe
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\OnlineBookStore.dll.config
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\OnlineBookStore.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\OnlineBookStore.pdb
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\Antlr3.Runtime.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\EntityFramework.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\EntityFramework.SqlServer.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\Microsoft.AI.Web.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\Microsoft.ApplicationInsights.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\Microsoft.Owin.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\Microsoft.Owin.Security.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\Model.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\Newtonsoft.Json.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\Owin.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\PagedList.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\PagedList.Mvc.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\System.Web.Helpers.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\System.Web.Mvc.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\System.Web.Optimization.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\System.Web.Razor.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\System.Web.WebPages.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\WebGrease.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\Model.pdb
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\Model.dll.config
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\Microsoft.AI.Web.xml
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\Microsoft.ApplicationInsights.xml
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\PagedList.xml
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\PagedList.Mvc.xml
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\System.Web.Helpers.xml
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\System.Web.Mvc.xml
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\System.Web.Optimization.xml
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\System.Web.Razor.xml
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\System.Web.WebPages.xml
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\Antlr3.Runtime.pdb
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\Newtonsoft.Json.xml
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\EntityFramework.xml
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\EntityFramework.SqlServer.xml
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\Microsoft.Owin.xml
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\Microsoft.Owin.Security.xml
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\obj\Debug\MyStore.csprojAssemblyReference.cache
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\obj\Debug\MyStore.csproj.CoreCompileInputs.cache
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\obj\Debug\MyStore.csproj.CopyComplete
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\obj\Debug\OnlineBookStore.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\OnlineBookStore\obj\Debug\OnlineBookStore.pdb
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\ApplicationInsights.config
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\roslyn\csc.exe
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\roslyn\vbc.exe
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\Antlr3.Runtime.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\EntityFramework.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\EntityFramework.SqlServer.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\Microsoft.AI.Web.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\Microsoft.ApplicationInsights.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\Microsoft.Owin.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\Microsoft.Owin.Security.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\Model.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\Newtonsoft.Json.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\Owin.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\PagedList.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\PagedList.Mvc.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\System.Web.Helpers.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\System.Web.Mvc.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\System.Web.Optimization.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\System.Web.Razor.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\System.Web.WebPages.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\WebGrease.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\Model.pdb
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\Microsoft.AI.Web.xml
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\Microsoft.ApplicationInsights.xml
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\PagedList.xml
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\PagedList.Mvc.xml
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\System.Web.Helpers.xml
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\System.Web.Mvc.xml
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\System.Web.Optimization.xml
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\System.Web.Razor.xml
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\System.Web.WebPages.xml
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\Antlr3.Runtime.pdb
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\Newtonsoft.Json.xml
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\EntityFramework.xml
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\EntityFramework.SqlServer.xml
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\Microsoft.Owin.xml
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\Microsoft.Owin.Security.xml
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\obj\Debug\MyStore.csprojAssemblyReference.cache
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\obj\Debug\MyStore.csproj.CoreCompileInputs.cache
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\obj\Debug\MyStore.csproj.CopyComplete
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\MyStore.dll.config
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\MyStore.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\bin\MyStore.pdb
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\obj\Debug\MyStore.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\MyStore\obj\Debug\MyStore.pdb
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\ApplicationInsights.config
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\roslyn\csc.exe
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\roslyn\System.Collections.Immutable.dll
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\roslyn\System.Reflection.Metadata.dll
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\roslyn\vbc.exe
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\roslyn\VBCSCompiler.exe
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\roslyn\VBCSCompiler.exe.config
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\MyStore.dll.config
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\MyStore.dll
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\MyStore.pdb
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\Antlr3.Runtime.dll
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\EntityFramework.dll
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\EntityFramework.SqlServer.dll
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\Microsoft.AI.Agent.Intercept.dll
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\Microsoft.AI.DependencyCollector.dll
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\Microsoft.AI.Web.dll
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\Microsoft.AI.WindowsServer.dll
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\Microsoft.ApplicationInsights.dll
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\Microsoft.AspNet.Identity.Core.dll
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\Microsoft.Owin.dll
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\Microsoft.Owin.Security.Cookies.dll
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\Microsoft.Owin.Security.dll
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\Microsoft.Owin.Security.Facebook.dll
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\Microsoft.Owin.Security.Google.dll
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\Microsoft.Owin.Security.OAuth.dll
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\Microsoft.Owin.Security.Twitter.dll
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\Microsoft.Web.Infrastructure.dll
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\Model.dll
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\Newtonsoft.Json.dll
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\Owin.dll
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\PagedList.dll
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\PagedList.Mvc.dll
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\System.Web.Helpers.dll
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\System.Web.Mvc.dll
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\System.Web.Optimization.dll
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\System.Web.Razor.dll
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\System.Web.WebPages.Deployment.dll
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\System.Web.WebPages.dll
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\System.Web.WebPages.Razor.dll
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\WebGrease.dll
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\Model.pdb
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\Microsoft.AI.DependencyCollector.xml
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\Microsoft.AI.Web.xml
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\Microsoft.AI.WindowsServer.xml
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\Microsoft.ApplicationInsights.xml
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\PagedList.xml
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\PagedList.Mvc.xml
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\System.Web.Helpers.xml
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\System.Web.Mvc.xml
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\System.Web.Optimization.xml
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\System.Web.Razor.xml
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\System.Web.WebPages.xml
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\System.Web.WebPages.Deployment.xml
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\System.Web.WebPages.Razor.xml
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\Antlr3.Runtime.pdb
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\Newtonsoft.Json.xml
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\EntityFramework.xml
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\EntityFramework.SqlServer.xml
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\Microsoft.AspNet.Identity.Core.xml
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\Microsoft.Owin.xml
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\Microsoft.Owin.Security.xml
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\Microsoft.Owin.Security.Facebook.xml
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\Microsoft.Owin.Security.Cookies.xml
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\Microsoft.Owin.Security.OAuth.xml
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\Microsoft.Owin.Security.Google.xml
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\Microsoft.Owin.Security.Twitter.xml
+F:\Đồ án\SourceCode2\SourceCode\MyStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\Đồ án\SourceCode2\SourceCode\MyStore\obj\Debug\MyStore.csprojAssemblyReference.cache
+F:\Đồ án\SourceCode2\SourceCode\MyStore\obj\Debug\MyStore.csproj.CoreCompileInputs.cache
+F:\Đồ án\SourceCode2\SourceCode\MyStore\obj\Debug\MyStore.csproj.CopyComplete
+F:\Đồ án\SourceCode2\SourceCode\MyStore\obj\Debug\MyStore.dll
+F:\Đồ án\SourceCode2\SourceCode\MyStore\obj\Debug\MyStore.pdb
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\ApplicationInsights.config
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\roslyn\csc.exe
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\roslyn\System.Collections.Immutable.dll
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\roslyn\System.Reflection.Metadata.dll
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\roslyn\vbc.exe
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\roslyn\VBCSCompiler.exe
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\roslyn\VBCSCompiler.exe.config
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\MyStore.dll.config
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\MyStore.dll
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\MyStore.pdb
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\Antlr3.Runtime.dll
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\EntityFramework.dll
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\EntityFramework.SqlServer.dll
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\Microsoft.AI.Agent.Intercept.dll
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\Microsoft.AI.DependencyCollector.dll
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\Microsoft.AI.Web.dll
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\Microsoft.AI.WindowsServer.dll
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\Microsoft.ApplicationInsights.dll
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\Microsoft.AspNet.Identity.Core.dll
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\Microsoft.Owin.dll
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\Microsoft.Owin.Security.Cookies.dll
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\Microsoft.Owin.Security.dll
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\Microsoft.Owin.Security.Facebook.dll
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\Microsoft.Owin.Security.Google.dll
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\Microsoft.Owin.Security.OAuth.dll
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\Microsoft.Owin.Security.Twitter.dll
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\Microsoft.Web.Infrastructure.dll
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\Model.dll
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\Newtonsoft.Json.dll
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\Owin.dll
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\PagedList.dll
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\PagedList.Mvc.dll
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\System.Web.Helpers.dll
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\System.Web.Mvc.dll
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\System.Web.Optimization.dll
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\System.Web.Razor.dll
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\System.Web.WebPages.Deployment.dll
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\System.Web.WebPages.dll
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\System.Web.WebPages.Razor.dll
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\WebGrease.dll
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\Model.pdb
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\Microsoft.AI.DependencyCollector.xml
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\Microsoft.AI.Web.xml
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\Microsoft.AI.WindowsServer.xml
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\Microsoft.ApplicationInsights.xml
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\PagedList.xml
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\PagedList.Mvc.xml
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\System.Web.Helpers.xml
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\System.Web.Mvc.xml
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\System.Web.Optimization.xml
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\System.Web.Razor.xml
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\System.Web.WebPages.xml
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\System.Web.WebPages.Deployment.xml
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\System.Web.WebPages.Razor.xml
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\Antlr3.Runtime.pdb
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\Newtonsoft.Json.xml
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\EntityFramework.xml
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\EntityFramework.SqlServer.xml
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\Microsoft.AspNet.Identity.Core.xml
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\Microsoft.Owin.xml
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\Microsoft.Owin.Security.xml
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\Microsoft.Owin.Security.Facebook.xml
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\Microsoft.Owin.Security.Cookies.xml
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\Microsoft.Owin.Security.OAuth.xml
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\Microsoft.Owin.Security.Google.xml
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\Microsoft.Owin.Security.Twitter.xml
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\obj\Debug\MyStore.csprojAssemblyReference.cache
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\obj\Debug\MyStore.csproj.CoreCompileInputs.cache
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\obj\Debug\MyStore.csproj.CopyComplete
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\obj\Debug\MyStore.dll
+D:\May tinh\CNTT_2017604793_NguyenThiHongNgoc\Chương trình\SourceCode\SourceCode\MyStore\obj\Debug\MyStore.pdb
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\ApplicationInsights.config
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\MyStore.dll.config
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\MyStore.dll
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\MyStore.pdb
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\Microsoft.AI.Web.dll
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\Microsoft.Owin.dll
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\Microsoft.Owin.Security.dll
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\Model.dll
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\Owin.dll
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\PagedList.dll
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\WebGrease.dll
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\Model.pdb
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\Microsoft.AI.Web.xml
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\PagedList.xml
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\Microsoft.Owin.xml
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\Microsoft.Owin.Security.xml
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\obj\Debug\MyStore.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\obj\Debug\MyStore.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\obj\Debug\MyStore.csproj.CopyComplete
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\obj\Debug\MyStore.dll
+C:\Users\Admin\Desktop\SourceCode\SourceCode\MyStore\obj\Debug\MyStore.pdb
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\ApplicationInsights.config
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\MyStore.dll.config
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\MyStore.dll
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\MyStore.pdb
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\Antlr3.Runtime.dll
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.AI.Web.dll
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.Owin.dll
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.Owin.Security.dll
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\Model.dll
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\Owin.dll
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\PagedList.dll
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\System.Web.Helpers.dll
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\System.Web.Mvc.dll
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\System.Web.Optimization.dll
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\System.Web.Razor.dll
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\System.Web.WebPages.dll
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\WebGrease.dll
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\Model.pdb
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.AI.Web.xml
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\PagedList.xml
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\System.Web.Helpers.xml
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\System.Web.Mvc.xml
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\System.Web.Optimization.xml
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\System.Web.Razor.xml
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\System.Web.WebPages.xml
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\Antlr3.Runtime.pdb
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.Owin.xml
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.Owin.Security.xml
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\obj\Debug\MyStore.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\obj\Debug\MyStore.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\obj\Debug\MyStore.csproj.CopyComplete
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\obj\Debug\MyStore.dll
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\MyStore\obj\Debug\MyStore.pdb
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\ApplicationInsights.config
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\roslyn\csc.exe
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\roslyn\System.Collections.Immutable.dll
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\roslyn\System.Reflection.Metadata.dll
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\roslyn\vbc.exe
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\roslyn\VBCSCompiler.exe
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\roslyn\VBCSCompiler.exe.config
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\MyStore.dll.config
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\MyStore.dll
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\MyStore.pdb
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\Antlr3.Runtime.dll
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\EntityFramework.dll
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\EntityFramework.SqlServer.dll
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.AI.Agent.Intercept.dll
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.AI.DependencyCollector.dll
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.AI.Web.dll
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.AI.WindowsServer.dll
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.ApplicationInsights.dll
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.AspNet.Identity.Core.dll
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.Owin.dll
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.Owin.Security.Cookies.dll
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.Owin.Security.dll
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.Owin.Security.Facebook.dll
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.Owin.Security.Google.dll
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.Owin.Security.OAuth.dll
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.Owin.Security.Twitter.dll
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.Web.Infrastructure.dll
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\Model.dll
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\Newtonsoft.Json.dll
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\Owin.dll
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\PagedList.dll
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\PagedList.Mvc.dll
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\System.Web.Helpers.dll
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\System.Web.Mvc.dll
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\System.Web.Optimization.dll
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\System.Web.Razor.dll
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\System.Web.WebPages.Deployment.dll
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\System.Web.WebPages.dll
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\System.Web.WebPages.Razor.dll
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\WebGrease.dll
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\Model.pdb
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.AI.DependencyCollector.xml
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.AI.Web.xml
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.AI.WindowsServer.xml
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.ApplicationInsights.xml
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\PagedList.xml
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\PagedList.Mvc.xml
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\System.Web.Helpers.xml
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\System.Web.Mvc.xml
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\System.Web.Optimization.xml
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\System.Web.Razor.xml
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\System.Web.WebPages.xml
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\System.Web.WebPages.Deployment.xml
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\System.Web.WebPages.Razor.xml
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\Antlr3.Runtime.pdb
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\Newtonsoft.Json.xml
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\EntityFramework.xml
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\EntityFramework.SqlServer.xml
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.AspNet.Identity.Core.xml
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.Owin.xml
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.Owin.Security.xml
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.Owin.Security.Facebook.xml
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.Owin.Security.Cookies.xml
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.Owin.Security.OAuth.xml
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.Owin.Security.Google.xml
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.Owin.Security.Twitter.xml
+D:\X\anh so do\CNPM\MyStore\MyStore\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\X\anh so do\CNPM\MyStore\MyStore\obj\Debug\MyStore.csprojAssemblyReference.cache
+D:\X\anh so do\CNPM\MyStore\MyStore\obj\Debug\MyStore.csproj.CoreCompileInputs.cache
+D:\X\anh so do\CNPM\MyStore\MyStore\obj\Debug\MyStore.csproj.CopyComplete
+D:\X\anh so do\CNPM\MyStore\MyStore\obj\Debug\MyStore.dll
+D:\X\anh so do\CNPM\MyStore\MyStore\obj\Debug\MyStore.pdb

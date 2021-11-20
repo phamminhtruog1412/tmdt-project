@@ -1,0 +1,119 @@
+﻿@model List<Model.EF.Product>
+@{
+    ViewBag.Title = "Danh sách sản phẩm";
+    Layout = "~/Views/Shared/_layout.cshtml";
+}
+
+<div class="w3ls_w3l_banner_nav_right_grid w3ls_w3l_banner_nav_right_grid_sub">
+    <h3>Danh Sách Sản Phẩm</h3>
+    <div class="w3ls_w3l_banner_nav_right_grid1">
+        @foreach (var item in Model)
+        {
+            var link = "/chi-tiet/" + item.MetaTitle + "-" + item.ProductID;
+            <div class="col-md-3 w3ls_w3l_banner_left">
+                <div class="hover14 column" style="margin-bottom: 30px;">
+                    <div class="agile_top_brand_left_grid w3l_agile_top_brand_left_grid">
+                        <div class="agile_top_brand_left_grid_pos">
+                            <img src="/Assets/Client/images/offer.png" class="img-responsive" />
+                        </div>
+                        <div class="agile_top_brand_left_grid1">
+                            <figure>
+                                <div class="snipcart-item block">
+                                    <div class="snipcart-thumb">
+                                        <a class="product-image-container" href="@link" style="background-image: url(@item.Image)">
+                                            @*<img src="@item.Image" alt="" class="img-responsive" />*@
+                                        </a>
+                                        @*<a href="@link"><img src="@item.Image" alt="" class="img-responsive" /></a>*@
+                                        @if (@item.ProductName.Length > 29)
+                                        {
+                                            <a title="@item.ProductName" href=""><p>@item.ProductName.Substring(0, 29)</p></a>
+                                        }
+                                        else
+                                        {
+                                            <p>@item.ProductName</p>
+                                        }
+                                        @if (item.PromotionPrice != null && item.PromotionPrice != 0)
+                                        {
+                                            <h4>  @item.PromotionPrice.Value.ToString("0,0")đ<span>@item.Price.Value.ToString("0,0")đ</span></h4>
+                                        }
+                                        else
+                                        {
+                                            <h4>@item.Price.Value.ToString("0,0")</h4>
+                                        }
+                                    </div>
+                                    <div class="snipcart-details">
+                                        @using (Html.BeginForm("AddItem", "Cart", routeValues: new { @productID = item.ProductID }, method: FormMethod.Post))
+                                        {
+                                            if (item.Quantity <= 0)
+                                            {
+                                                <input type="submit" name="submit" disabled value="Hết hàng" class="button disabled" />
+                                            }
+                                            else
+                                            {
+                                                <input type="submit" name="submit" value="Thêm vào giỏ" class="button" />
+                                            }
+
+                                        }
+                                    </div>
+                                </div>
+                            </figure>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+
+        <div class="clearfix"> </div>
+    </div>
+
+    <!--Phân trang-->
+    @if (ViewBag.TotalPage > 1)
+    {
+        var pageDisplay = (int)ViewBag.MaxPage;
+        int totalPage = (int)ViewBag.TotalPage;
+        int currentPage = ((int)ViewBag.Page);
+
+        // Create numeric links
+        var startPageIndex = Math.Max(1, currentPage - pageDisplay / 2);
+        var endPageIndex = Math.Min(totalPage, currentPage + pageDisplay / 2);
+
+        var link = "/san-pham/";
+        <nav>
+            <ul class="pagination">
+                @if (currentPage > ViewBag.First)
+                {
+                    <li><a href="@link?page=@ViewBag.First" title="Trang đầu" class="first"><i class="fa fa-angle-double-left"></i></a></li>
+                        <li>
+                            <a href="@link?page=@ViewBag.Prev" title="Trang trước" class="prev"><i class="fa fa-angle-left"></i></a>
+                        </li>
+
+                }
+                @for (int i = startPageIndex; i <= endPageIndex; i++)
+                {
+                    if (currentPage == i)
+                    {
+
+                        <li> <a href="@link?page=@i" class="active" title="Trang @i">@i</a></li>
+                    }
+                    else
+                    {
+                        <li><a href="@link?page=@i" title="Trang @i" class="pos">@i</a></li>
+                    }
+                }
+                @if (currentPage < totalPage)
+                {
+                    <li><a href="@link?page=@ViewBag.Next" class="next" title="Trang sau"><i class="fa fa-angle-right"></i></a></li>
+                        <li> <a href="@link?page=@ViewBag.Last" class="last" title="Trang cuối"><i class="fa fa-angle-double-right"></i></a></li>
+                }
+
+            </ul>
+        </nav>
+
+    }
+    else
+    {
+        <span>Không có bản ghi nào</span>
+    }
+</div>
+
+

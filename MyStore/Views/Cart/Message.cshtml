@@ -1,0 +1,26 @@
+﻿
+@{
+    ViewBag.Title = "Message";
+    Layout = "~/Views/Shared/_layout.cshtml";
+}
+@if (ViewBag.msgStatus != null)
+{
+    if (ViewBag.msgStatus == "success")
+    {
+        <div class="alert alert-success">
+            <label>Gửi đơn hàng thành công</label>
+        </div>
+
+    }
+    else if (ViewBag.msgStatus == "error")
+    {
+        <div class="alert alert-danger">
+            <label>Gửi đơn hàng thất bại, vui lòng cập nhật đẩy đủ thông tin trước khi đặt hàng.</label>
+        </div>
+    }
+
+}
+<div class="clearfix"></div>
+<button class="btn btnContinue" >Tiếp tục mua hàng</button>
+
+

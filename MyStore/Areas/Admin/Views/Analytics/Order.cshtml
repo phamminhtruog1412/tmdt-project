@@ -1,0 +1,89 @@
+﻿@using Model.EF
+@model ProductCategory
+
+@{
+    ViewBag.Title = "Thống kê đơn hàng";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+@section header{
+    Thống kê đơn hàng
+}
+<link href="~/Assets/Admin/Flotcharts/examples.css" rel="stylesheet" />
+<div class="panel panel-default">
+    <div class="panel-heading">
+        Thống kê đơn hàng
+    </div>
+    <div class="panel-body">
+        <div class="row">
+            <div class="col-lg-4">
+                <label>Từ ngày</label>
+                <input type="date" id="fromDay" />
+            </div>
+            <div class="col-lg-4">
+                <label>Đến ngày</label>
+                <input type="date" id="toDay" />
+            </div>
+            <div class="col-lg-3">
+                <button type="button" id="btnStatisticsByDay" class="btn btn-default">Thống kê</button>
+            </div>
+        </div>
+        <div class="row">
+            <div id="content" class="hide">
+                <div class="demo-container">
+                    <div id="placeholder" class="demo-placeholder"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+@section jsfooter {
+    <script src="~/Assets/Admin/moment/moment.min.js"></script>
+    <script src="~/Assets/Admin/Flotcharts/jquery.flot.js"></script>
+    <script src="~/Assets/Admin/Flotcharts/jquery.flot.categories.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            $('#btnStatisticsByDay').off('click').on('click', function (e) {
+                e.preventDefault();
+                var fromDate = $('#fromDay').val();
+                var toDate = $('#toDay').val();
+                $.ajax({
+                    url: '/Analytics/Order_Statistics_ByDay',
+                    type: 'post',
+                    data: { fromDate: fromDate, toDate: toDate },
+                    success: function (res) {
+                        var data = [];
+
+
+                        $.each(res.data, function (i, item) {
+                            data.push([moment(res.data[i].date).format("DD/MM"), res.data[i].value]);
+                        });
+
+                        var d1 = [
+                            {
+                                "label": res.label,
+                                "data": data
+                            }];
+                        $('#content').removeClass('hide');
+                        $.plot("#placeholder", d1, {
+                            lines: {
+                                show: true
+                            },
+                            points: {
+                                show: true
+                            },
+                            xaxis: {
+                                mode: "categories",
+                                tickLength: 0
+                            }
+                        });
+
+                    }
+                });
+            });
+        });
+    </script>
+}

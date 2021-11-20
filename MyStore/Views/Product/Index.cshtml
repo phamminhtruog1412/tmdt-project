@@ -1,0 +1,79 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_layout.cshtml";
+    var products = (List<Model.EF.Product>)ViewBag.ProductsByCategoryID;
+}
+
+@section header {
+    <style type="text/css">
+        .clear-bot {
+            margin-bottom:10px;
+        }
+    </style>  
+}
+
+@section category {
+   @ViewBag.CateName
+}
+
+<div class="w3ls_w3l_banner_nav_right_grid w3ls_w3l_banner_nav_right_grid_sub">
+    <h3 class="w3l_fruit">@ViewBag.CateName</h3>
+    <div class="w3ls_w3l_banner_nav_right_grid1 w3ls_w3l_banner_nav_right_grid1_veg">
+        @foreach (var item in products)
+        {
+            <div class="col-md-3 w3ls_w3l_banner_left clear-bot">
+                <div class="hover14 column">
+                    <div class="agile_top_brand_left_grid w3l_agile_top_brand_left_grid">
+                        <div class="agile_top_brand_left_grid_pos">
+                            <img src="/Assets/Client/images/offer.png" alt=" " class="img-responsive" />
+                        </div>
+                        <div class="agile_top_brand_left_grid1">
+                            <figure>
+                                <div class="snipcart-item block">
+                                    <div class="snipcart-thumb">
+                                        <a class="product-image-container" href="/chi-tiet/@item.MetaTitle-@item.ProductID" style="background-image: url(@item.Image)">
+                                            @*<img src="@item.Image" alt="" class="img-responsive" />*@
+                                        </a>
+                                        @if (@item.ProductName.Length > 29)
+                                        {
+                                            <a title="@item.ProductName" href=""><p>@item.ProductName.Substring(0, 29)</p></a>
+                                        }
+                                        else
+                                        {
+                                            <p>@item.ProductName</p>
+                                        }
+                                        @if (item.PromotionPrice != null && item.PromotionPrice != 0)
+                                        {
+                                            <h4>  @item.PromotionPrice.Value.ToString("0,0")đ<span>@item.Price.Value.ToString("0,0")đ</span></h4>
+                                        }
+                                        else
+                                        {
+                                            <h4>@item.Price.Value.ToString("0,0")</h4>
+                                        }
+                                    </div>
+                                    <div class="snipcart-details">
+                                        @using (Html.BeginForm("AddItem", "Cart", routeValues: new { @productID = item.ProductID }, method: FormMethod.Post))
+                                        {
+                                            if (item.Quantity <= 0)
+                                            {
+                                                <input type="submit" name="submit" disabled value="Hết hàng" class="button disabled" />
+                                            }
+                                            else
+                                            {
+                                                <input type="submit" name="submit" value="Thêm vào giỏ" class="button" />
+                                            }
+
+                                        }
+                                    </div>
+                                </div>
+                            </figure>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+
+        <div class="clearfix"> </div>
+    </div>
+</div>

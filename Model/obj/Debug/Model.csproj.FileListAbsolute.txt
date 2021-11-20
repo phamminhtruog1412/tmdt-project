@@ -1,0 +1,297 @@
+C:\Users\Admin\Desktop\OnlineBookStore\Model\bin\Debug\Model.dll.config
+C:\Users\Admin\Desktop\OnlineBookStore\Model\bin\Debug\Model.dll
+C:\Users\Admin\Desktop\OnlineBookStore\Model\bin\Debug\Model.pdb
+C:\Users\Admin\Desktop\OnlineBookStore\Model\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\OnlineBookStore\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\OnlineBookStore\Model\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\OnlineBookStore\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\OnlineBookStore\Model\obj\Debug\Model.dll
+C:\Users\Admin\Desktop\OnlineBookStore\Model\obj\Debug\Model.pdb
+C:\Users\Admin\Desktop\OnlineBookStore\Model\bin\Debug\PagedList.dll
+C:\Users\Admin\Desktop\OnlineBookStore\Model\bin\Debug\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\OnlineBookStore\Model\bin\Debug\PagedList.xml
+C:\Users\Admin\Desktop\OnlineBookStore\Model\bin\Debug\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\OnlineBookStore\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\hbui5\Desktop\TTTN\OnlineBookStore\Model\bin\Debug\Model.dll.config
+C:\Users\hbui5\Desktop\TTTN\OnlineBookStore\Model\bin\Debug\Model.dll
+C:\Users\hbui5\Desktop\TTTN\OnlineBookStore\Model\bin\Debug\Model.pdb
+C:\Users\hbui5\Desktop\TTTN\OnlineBookStore\Model\bin\Debug\EntityFramework.dll
+C:\Users\hbui5\Desktop\TTTN\OnlineBookStore\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hbui5\Desktop\TTTN\OnlineBookStore\Model\bin\Debug\PagedList.dll
+C:\Users\hbui5\Desktop\TTTN\OnlineBookStore\Model\bin\Debug\PagedList.Mvc.dll
+C:\Users\hbui5\Desktop\TTTN\OnlineBookStore\Model\bin\Debug\EntityFramework.xml
+C:\Users\hbui5\Desktop\TTTN\OnlineBookStore\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hbui5\Desktop\TTTN\OnlineBookStore\Model\bin\Debug\PagedList.xml
+C:\Users\hbui5\Desktop\TTTN\OnlineBookStore\Model\bin\Debug\PagedList.Mvc.xml
+C:\Users\hbui5\Desktop\TTTN\OnlineBookStore\Model\obj\Debug\Model.dll
+C:\Users\hbui5\Desktop\TTTN\OnlineBookStore\Model\obj\Debug\Model.pdb
+C:\Users\hbui5\Desktop\TTTN\OnlineBookStore\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\TTTN\OnlineBookStore\Model\bin\Debug\Model.dll.config
+C:\Users\Admin\Desktop\TTTN\OnlineBookStore\Model\bin\Debug\Model.dll
+C:\Users\Admin\Desktop\TTTN\OnlineBookStore\Model\bin\Debug\Model.pdb
+C:\Users\Admin\Desktop\TTTN\OnlineBookStore\Model\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\TTTN\OnlineBookStore\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\TTTN\OnlineBookStore\Model\bin\Debug\PagedList.dll
+C:\Users\Admin\Desktop\TTTN\OnlineBookStore\Model\bin\Debug\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\TTTN\OnlineBookStore\Model\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\TTTN\OnlineBookStore\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\TTTN\OnlineBookStore\Model\bin\Debug\PagedList.xml
+C:\Users\Admin\Desktop\TTTN\OnlineBookStore\Model\bin\Debug\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\TTTN\OnlineBookStore\Model\obj\Debug\Model.dll
+C:\Users\Admin\Desktop\TTTN\OnlineBookStore\Model\obj\Debug\Model.pdb
+C:\Users\KissPro\Desktop\TTTN\OnlineBookStore\Model\bin\Debug\Model.dll.config
+C:\Users\KissPro\Desktop\TTTN\OnlineBookStore\Model\bin\Debug\Model.dll
+C:\Users\KissPro\Desktop\TTTN\OnlineBookStore\Model\bin\Debug\Model.pdb
+C:\Users\KissPro\Desktop\TTTN\OnlineBookStore\Model\bin\Debug\EntityFramework.dll
+C:\Users\KissPro\Desktop\TTTN\OnlineBookStore\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\KissPro\Desktop\TTTN\OnlineBookStore\Model\bin\Debug\PagedList.dll
+C:\Users\KissPro\Desktop\TTTN\OnlineBookStore\Model\bin\Debug\PagedList.Mvc.dll
+C:\Users\KissPro\Desktop\TTTN\OnlineBookStore\Model\bin\Debug\EntityFramework.xml
+C:\Users\KissPro\Desktop\TTTN\OnlineBookStore\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\KissPro\Desktop\TTTN\OnlineBookStore\Model\bin\Debug\PagedList.xml
+C:\Users\KissPro\Desktop\TTTN\OnlineBookStore\Model\bin\Debug\PagedList.Mvc.xml
+C:\Users\KissPro\Desktop\TTTN\OnlineBookStore\Model\obj\Debug\Model.dll
+C:\Users\KissPro\Desktop\TTTN\OnlineBookStore\Model\obj\Debug\Model.pdb
+C:\Users\KissPro\Desktop\TTTN\OnlineBookStore\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\TTTN\OnlineBookStore\Model\bin\Debug\Model.dll.config
+D:\TTTN\OnlineBookStore\Model\bin\Debug\Model.dll
+D:\TTTN\OnlineBookStore\Model\bin\Debug\Model.pdb
+D:\TTTN\OnlineBookStore\Model\bin\Debug\EntityFramework.dll
+D:\TTTN\OnlineBookStore\Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\TTTN\OnlineBookStore\Model\bin\Debug\PagedList.dll
+D:\TTTN\OnlineBookStore\Model\bin\Debug\PagedList.Mvc.dll
+D:\TTTN\OnlineBookStore\Model\bin\Debug\EntityFramework.xml
+D:\TTTN\OnlineBookStore\Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\TTTN\OnlineBookStore\Model\bin\Debug\PagedList.xml
+D:\TTTN\OnlineBookStore\Model\bin\Debug\PagedList.Mvc.xml
+D:\TTTN\OnlineBookStore\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\TTTN\OnlineBookStore\Model\obj\Debug\Model.dll
+D:\TTTN\OnlineBookStore\Model\obj\Debug\Model.pdb
+D:\CV\TTTN\TTTN\OnlineBookStore\Model\bin\Debug\Model.dll.config
+D:\CV\TTTN\TTTN\OnlineBookStore\Model\bin\Debug\Model.dll
+D:\CV\TTTN\TTTN\OnlineBookStore\Model\bin\Debug\Model.pdb
+D:\CV\TTTN\TTTN\OnlineBookStore\Model\bin\Debug\EntityFramework.dll
+D:\CV\TTTN\TTTN\OnlineBookStore\Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\CV\TTTN\TTTN\OnlineBookStore\Model\bin\Debug\PagedList.dll
+D:\CV\TTTN\TTTN\OnlineBookStore\Model\bin\Debug\PagedList.Mvc.dll
+D:\CV\TTTN\TTTN\OnlineBookStore\Model\bin\Debug\EntityFramework.xml
+D:\CV\TTTN\TTTN\OnlineBookStore\Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\CV\TTTN\TTTN\OnlineBookStore\Model\bin\Debug\PagedList.xml
+D:\CV\TTTN\TTTN\OnlineBookStore\Model\bin\Debug\PagedList.Mvc.xml
+D:\CV\TTTN\TTTN\OnlineBookStore\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\CV\TTTN\TTTN\OnlineBookStore\Model\obj\Debug\Model.dll
+D:\CV\TTTN\TTTN\OnlineBookStore\Model\obj\Debug\Model.pdb
+C:\Users\H81\Desktop\TTTN\OnlineBookStore\Model\bin\Debug\Model.dll.config
+C:\Users\H81\Desktop\TTTN\OnlineBookStore\Model\bin\Debug\Model.dll
+C:\Users\H81\Desktop\TTTN\OnlineBookStore\Model\bin\Debug\Model.pdb
+C:\Users\H81\Desktop\TTTN\OnlineBookStore\Model\bin\Debug\EntityFramework.dll
+C:\Users\H81\Desktop\TTTN\OnlineBookStore\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\H81\Desktop\TTTN\OnlineBookStore\Model\bin\Debug\PagedList.dll
+C:\Users\H81\Desktop\TTTN\OnlineBookStore\Model\bin\Debug\PagedList.Mvc.dll
+C:\Users\H81\Desktop\TTTN\OnlineBookStore\Model\bin\Debug\EntityFramework.xml
+C:\Users\H81\Desktop\TTTN\OnlineBookStore\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\H81\Desktop\TTTN\OnlineBookStore\Model\bin\Debug\PagedList.xml
+C:\Users\H81\Desktop\TTTN\OnlineBookStore\Model\bin\Debug\PagedList.Mvc.xml
+C:\Users\H81\Desktop\TTTN\OnlineBookStore\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\H81\Desktop\TTTN\OnlineBookStore\Model\obj\Debug\Model.dll
+C:\Users\H81\Desktop\TTTN\OnlineBookStore\Model\obj\Debug\Model.pdb
+C:\Users\Admin\Downloads\TTTN_1.1\TTTN\OnlineBookStore\Model\bin\Debug\Model.dll.config
+C:\Users\Admin\Downloads\TTTN_1.1\TTTN\OnlineBookStore\Model\bin\Debug\Model.dll
+C:\Users\Admin\Downloads\TTTN_1.1\TTTN\OnlineBookStore\Model\bin\Debug\Model.pdb
+C:\Users\Admin\Downloads\TTTN_1.1\TTTN\OnlineBookStore\Model\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Downloads\TTTN_1.1\TTTN\OnlineBookStore\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Downloads\TTTN_1.1\TTTN\OnlineBookStore\Model\bin\Debug\PagedList.dll
+C:\Users\Admin\Downloads\TTTN_1.1\TTTN\OnlineBookStore\Model\bin\Debug\PagedList.Mvc.dll
+C:\Users\Admin\Downloads\TTTN_1.1\TTTN\OnlineBookStore\Model\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Downloads\TTTN_1.1\TTTN\OnlineBookStore\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Downloads\TTTN_1.1\TTTN\OnlineBookStore\Model\bin\Debug\PagedList.xml
+C:\Users\Admin\Downloads\TTTN_1.1\TTTN\OnlineBookStore\Model\bin\Debug\PagedList.Mvc.xml
+C:\Users\Admin\Downloads\TTTN_1.1\TTTN\OnlineBookStore\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\TTTN_1.1\TTTN\OnlineBookStore\Model\obj\Debug\Model.dll
+C:\Users\Admin\Downloads\TTTN_1.1\TTTN\OnlineBookStore\Model\obj\Debug\Model.pdb
+C:\Users\H81\Desktop\TTTN_1.2\TTTN\OnlineBookStore\Model\bin\Debug\Model.dll.config
+C:\Users\H81\Desktop\TTTN_1.2\TTTN\OnlineBookStore\Model\bin\Debug\Model.dll
+C:\Users\H81\Desktop\TTTN_1.2\TTTN\OnlineBookStore\Model\bin\Debug\Model.pdb
+C:\Users\H81\Desktop\TTTN_1.2\TTTN\OnlineBookStore\Model\bin\Debug\EntityFramework.dll
+C:\Users\H81\Desktop\TTTN_1.2\TTTN\OnlineBookStore\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\H81\Desktop\TTTN_1.2\TTTN\OnlineBookStore\Model\bin\Debug\PagedList.dll
+C:\Users\H81\Desktop\TTTN_1.2\TTTN\OnlineBookStore\Model\bin\Debug\PagedList.Mvc.dll
+C:\Users\H81\Desktop\TTTN_1.2\TTTN\OnlineBookStore\Model\bin\Debug\EntityFramework.xml
+C:\Users\H81\Desktop\TTTN_1.2\TTTN\OnlineBookStore\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\H81\Desktop\TTTN_1.2\TTTN\OnlineBookStore\Model\bin\Debug\PagedList.xml
+C:\Users\H81\Desktop\TTTN_1.2\TTTN\OnlineBookStore\Model\bin\Debug\PagedList.Mvc.xml
+C:\Users\H81\Desktop\TTTN_1.2\TTTN\OnlineBookStore\Model\obj\Debug\Model.dll
+C:\Users\H81\Desktop\TTTN_1.2\TTTN\OnlineBookStore\Model\obj\Debug\Model.pdb
+C:\Users\KIET\Desktop\TTTN_1.3\TTTN\OnlineBookStore\Model\bin\Debug\Model.dll.config
+C:\Users\KIET\Desktop\TTTN_1.3\TTTN\OnlineBookStore\Model\bin\Debug\Model.dll
+C:\Users\KIET\Desktop\TTTN_1.3\TTTN\OnlineBookStore\Model\bin\Debug\Model.pdb
+C:\Users\KIET\Desktop\TTTN_1.3\TTTN\OnlineBookStore\Model\bin\Debug\EntityFramework.dll
+C:\Users\KIET\Desktop\TTTN_1.3\TTTN\OnlineBookStore\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\KIET\Desktop\TTTN_1.3\TTTN\OnlineBookStore\Model\bin\Debug\PagedList.dll
+C:\Users\KIET\Desktop\TTTN_1.3\TTTN\OnlineBookStore\Model\bin\Debug\PagedList.Mvc.dll
+C:\Users\KIET\Desktop\TTTN_1.3\TTTN\OnlineBookStore\Model\bin\Debug\EntityFramework.xml
+C:\Users\KIET\Desktop\TTTN_1.3\TTTN\OnlineBookStore\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\KIET\Desktop\TTTN_1.3\TTTN\OnlineBookStore\Model\bin\Debug\PagedList.xml
+C:\Users\KIET\Desktop\TTTN_1.3\TTTN\OnlineBookStore\Model\bin\Debug\PagedList.Mvc.xml
+C:\Users\KIET\Desktop\TTTN_1.3\TTTN\OnlineBookStore\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\KIET\Desktop\TTTN_1.3\TTTN\OnlineBookStore\Model\obj\Debug\Model.dll
+C:\Users\KIET\Desktop\TTTN_1.3\TTTN\OnlineBookStore\Model\obj\Debug\Model.pdb
+C:\Users\KIET\Desktop\TTTN_1.3\Do An Web\OnlineBookStore\Model\bin\Debug\Model.dll.config
+C:\Users\KIET\Desktop\TTTN_1.3\Do An Web\OnlineBookStore\Model\bin\Debug\Model.dll
+C:\Users\KIET\Desktop\TTTN_1.3\Do An Web\OnlineBookStore\Model\bin\Debug\Model.pdb
+C:\Users\KIET\Desktop\TTTN_1.3\Do An Web\OnlineBookStore\Model\bin\Debug\EntityFramework.dll
+C:\Users\KIET\Desktop\TTTN_1.3\Do An Web\OnlineBookStore\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\KIET\Desktop\TTTN_1.3\Do An Web\OnlineBookStore\Model\bin\Debug\PagedList.dll
+C:\Users\KIET\Desktop\TTTN_1.3\Do An Web\OnlineBookStore\Model\bin\Debug\PagedList.Mvc.dll
+C:\Users\KIET\Desktop\TTTN_1.3\Do An Web\OnlineBookStore\Model\bin\Debug\EntityFramework.xml
+C:\Users\KIET\Desktop\TTTN_1.3\Do An Web\OnlineBookStore\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\KIET\Desktop\TTTN_1.3\Do An Web\OnlineBookStore\Model\bin\Debug\PagedList.xml
+C:\Users\KIET\Desktop\TTTN_1.3\Do An Web\OnlineBookStore\Model\bin\Debug\PagedList.Mvc.xml
+C:\Users\KIET\Desktop\TTTN_1.3\Do An Web\OnlineBookStore\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\KIET\Desktop\TTTN_1.3\Do An Web\OnlineBookStore\Model\obj\Debug\Model.dll
+C:\Users\KIET\Desktop\TTTN_1.3\Do An Web\OnlineBookStore\Model\obj\Debug\Model.pdb
+D:\Do An Co So\Do An\Do An Web\OnlineBookStore\Model\bin\Debug\Model.dll.config
+D:\Do An Co So\Do An\Do An Web\OnlineBookStore\Model\bin\Debug\Model.dll
+D:\Do An Co So\Do An\Do An Web\OnlineBookStore\Model\bin\Debug\Model.pdb
+D:\Do An Co So\Do An\Do An Web\OnlineBookStore\Model\bin\Debug\EntityFramework.dll
+D:\Do An Co So\Do An\Do An Web\OnlineBookStore\Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\Do An Co So\Do An\Do An Web\OnlineBookStore\Model\bin\Debug\PagedList.dll
+D:\Do An Co So\Do An\Do An Web\OnlineBookStore\Model\bin\Debug\PagedList.Mvc.dll
+D:\Do An Co So\Do An\Do An Web\OnlineBookStore\Model\bin\Debug\EntityFramework.xml
+D:\Do An Co So\Do An\Do An Web\OnlineBookStore\Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\Do An Co So\Do An\Do An Web\OnlineBookStore\Model\bin\Debug\PagedList.xml
+D:\Do An Co So\Do An\Do An Web\OnlineBookStore\Model\bin\Debug\PagedList.Mvc.xml
+D:\Do An Co So\Do An\Do An Web\OnlineBookStore\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\Do An Co So\Do An\Do An Web\OnlineBookStore\Model\obj\Debug\Model.dll
+D:\Do An Co So\Do An\Do An Web\OnlineBookStore\Model\obj\Debug\Model.pdb
+D:\Do An Co So\Lap Trinh Web\Model\bin\Debug\Model.dll.config
+D:\Do An Co So\Lap Trinh Web\Model\bin\Debug\Model.dll
+D:\Do An Co So\Lap Trinh Web\Model\bin\Debug\Model.pdb
+D:\Do An Co So\Lap Trinh Web\Model\bin\Debug\EntityFramework.dll
+D:\Do An Co So\Lap Trinh Web\Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\Do An Co So\Lap Trinh Web\Model\bin\Debug\PagedList.dll
+D:\Do An Co So\Lap Trinh Web\Model\bin\Debug\PagedList.Mvc.dll
+D:\Do An Co So\Lap Trinh Web\Model\bin\Debug\EntityFramework.xml
+D:\Do An Co So\Lap Trinh Web\Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\Do An Co So\Lap Trinh Web\Model\bin\Debug\PagedList.xml
+D:\Do An Co So\Lap Trinh Web\Model\bin\Debug\PagedList.Mvc.xml
+D:\Do An Co So\Lap Trinh Web\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\Do An Co So\Lap Trinh Web\Model\obj\Debug\Model.dll
+D:\Do An Co So\Lap Trinh Web\Model\obj\Debug\Model.pdb
+C:\Users\Admin\Desktop\FInal\Model\bin\Debug\Model.dll.config
+C:\Users\Admin\Desktop\FInal\Model\bin\Debug\Model.dll
+C:\Users\Admin\Desktop\FInal\Model\bin\Debug\Model.pdb
+C:\Users\Admin\Desktop\FInal\Model\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\FInal\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\FInal\Model\bin\Debug\PagedList.dll
+C:\Users\Admin\Desktop\FInal\Model\bin\Debug\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\FInal\Model\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\FInal\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\FInal\Model\bin\Debug\PagedList.xml
+C:\Users\Admin\Desktop\FInal\Model\bin\Debug\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\FInal\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\FInal\Model\obj\Debug\Model.dll
+C:\Users\Admin\Desktop\FInal\Model\obj\Debug\Model.pdb
+C:\Users\bvhau\Desktop\FinalProject\Model\bin\Debug\Model.dll.config
+C:\Users\bvhau\Desktop\FinalProject\Model\bin\Debug\Model.dll
+C:\Users\bvhau\Desktop\FinalProject\Model\bin\Debug\Model.pdb
+C:\Users\bvhau\Desktop\FinalProject\Model\bin\Debug\EntityFramework.dll
+C:\Users\bvhau\Desktop\FinalProject\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bvhau\Desktop\FinalProject\Model\bin\Debug\PagedList.dll
+C:\Users\bvhau\Desktop\FinalProject\Model\bin\Debug\PagedList.Mvc.dll
+C:\Users\bvhau\Desktop\FinalProject\Model\bin\Debug\EntityFramework.xml
+C:\Users\bvhau\Desktop\FinalProject\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bvhau\Desktop\FinalProject\Model\bin\Debug\PagedList.xml
+C:\Users\bvhau\Desktop\FinalProject\Model\bin\Debug\PagedList.Mvc.xml
+C:\Users\bvhau\Desktop\FinalProject\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\bvhau\Desktop\FinalProject\Model\obj\Debug\Model.dll
+C:\Users\bvhau\Desktop\FinalProject\Model\obj\Debug\Model.pdb
+C:\Users\bvhau\Downloads\Đề tài xây dựng website thương mại điện tử bán sách\Đề tài xây dựng website thương mại điện tử bán sách\SourceCode\Model\bin\Debug\Model.dll.config
+C:\Users\bvhau\Downloads\Đề tài xây dựng website thương mại điện tử bán sách\Đề tài xây dựng website thương mại điện tử bán sách\SourceCode\Model\bin\Debug\Model.dll
+C:\Users\bvhau\Downloads\Đề tài xây dựng website thương mại điện tử bán sách\Đề tài xây dựng website thương mại điện tử bán sách\SourceCode\Model\bin\Debug\Model.pdb
+C:\Users\bvhau\Downloads\Đề tài xây dựng website thương mại điện tử bán sách\Đề tài xây dựng website thương mại điện tử bán sách\SourceCode\Model\bin\Debug\EntityFramework.dll
+C:\Users\bvhau\Downloads\Đề tài xây dựng website thương mại điện tử bán sách\Đề tài xây dựng website thương mại điện tử bán sách\SourceCode\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bvhau\Downloads\Đề tài xây dựng website thương mại điện tử bán sách\Đề tài xây dựng website thương mại điện tử bán sách\SourceCode\Model\bin\Debug\PagedList.dll
+C:\Users\bvhau\Downloads\Đề tài xây dựng website thương mại điện tử bán sách\Đề tài xây dựng website thương mại điện tử bán sách\SourceCode\Model\bin\Debug\PagedList.Mvc.dll
+C:\Users\bvhau\Downloads\Đề tài xây dựng website thương mại điện tử bán sách\Đề tài xây dựng website thương mại điện tử bán sách\SourceCode\Model\bin\Debug\EntityFramework.xml
+C:\Users\bvhau\Downloads\Đề tài xây dựng website thương mại điện tử bán sách\Đề tài xây dựng website thương mại điện tử bán sách\SourceCode\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bvhau\Downloads\Đề tài xây dựng website thương mại điện tử bán sách\Đề tài xây dựng website thương mại điện tử bán sách\SourceCode\Model\bin\Debug\PagedList.xml
+C:\Users\bvhau\Downloads\Đề tài xây dựng website thương mại điện tử bán sách\Đề tài xây dựng website thương mại điện tử bán sách\SourceCode\Model\bin\Debug\PagedList.Mvc.xml
+C:\Users\bvhau\Downloads\Đề tài xây dựng website thương mại điện tử bán sách\Đề tài xây dựng website thương mại điện tử bán sách\SourceCode\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\bvhau\Downloads\Đề tài xây dựng website thương mại điện tử bán sách\Đề tài xây dựng website thương mại điện tử bán sách\SourceCode\Model\obj\Debug\Model.dll
+C:\Users\bvhau\Downloads\Đề tài xây dựng website thương mại điện tử bán sách\Đề tài xây dựng website thương mại điện tử bán sách\SourceCode\Model\obj\Debug\Model.pdb
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\Model\bin\Debug\Model.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\Model\bin\Debug\Model.pdb
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\Model\bin\Debug\EntityFramework.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\Model\bin\Debug\PagedList.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\Model\bin\Debug\PagedList.Mvc.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\Model\bin\Debug\EntityFramework.xml
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\Model\bin\Debug\PagedList.xml
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\Model\bin\Debug\PagedList.Mvc.xml
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\Model\obj\Debug\Model.dll
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\Model\obj\Debug\Model.pdb
+C:\Users\bvhau\Downloads\OnlineBookProject\OnlineBookProject\SourceCode\Model\obj\Debug\Model.csprojAssemblyReference.cache
+F:\Đồ án\SourceCode2\SourceCode\Model\bin\Debug\Model.dll
+F:\Đồ án\SourceCode2\SourceCode\Model\bin\Debug\Model.pdb
+F:\Đồ án\SourceCode2\SourceCode\Model\bin\Debug\EntityFramework.dll
+F:\Đồ án\SourceCode2\SourceCode\Model\bin\Debug\EntityFramework.SqlServer.dll
+F:\Đồ án\SourceCode2\SourceCode\Model\bin\Debug\PagedList.dll
+F:\Đồ án\SourceCode2\SourceCode\Model\bin\Debug\PagedList.Mvc.dll
+F:\Đồ án\SourceCode2\SourceCode\Model\bin\Debug\EntityFramework.xml
+F:\Đồ án\SourceCode2\SourceCode\Model\bin\Debug\EntityFramework.SqlServer.xml
+F:\Đồ án\SourceCode2\SourceCode\Model\bin\Debug\PagedList.xml
+F:\Đồ án\SourceCode2\SourceCode\Model\bin\Debug\PagedList.Mvc.xml
+F:\Đồ án\SourceCode2\SourceCode\Model\obj\Debug\Model.csprojAssemblyReference.cache
+F:\Đồ án\SourceCode2\SourceCode\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+F:\Đồ án\SourceCode2\SourceCode\Model\obj\Debug\Model.csproj.CopyComplete
+F:\Đồ án\SourceCode2\SourceCode\Model\obj\Debug\Model.dll
+F:\Đồ án\SourceCode2\SourceCode\Model\obj\Debug\Model.pdb
+C:\Users\Admin\Desktop\SourceCode\SourceCode\Model\bin\Debug\Model.dll
+C:\Users\Admin\Desktop\SourceCode\SourceCode\Model\bin\Debug\Model.pdb
+C:\Users\Admin\Desktop\SourceCode\SourceCode\Model\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\SourceCode\SourceCode\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\SourceCode\SourceCode\Model\bin\Debug\PagedList.dll
+C:\Users\Admin\Desktop\SourceCode\SourceCode\Model\bin\Debug\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\SourceCode\SourceCode\Model\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\SourceCode\SourceCode\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\SourceCode\SourceCode\Model\bin\Debug\PagedList.xml
+C:\Users\Admin\Desktop\SourceCode\SourceCode\Model\bin\Debug\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\SourceCode\SourceCode\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\SourceCode\SourceCode\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\SourceCode\SourceCode\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\Admin\Desktop\SourceCode\SourceCode\Model\obj\Debug\Model.dll
+C:\Users\Admin\Desktop\SourceCode\SourceCode\Model\obj\Debug\Model.pdb
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\Model\bin\Debug\Model.dll
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\Model\bin\Debug\Model.pdb
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\Model\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\Model\bin\Debug\PagedList.dll
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\Model\bin\Debug\PagedList.Mvc.dll
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\Model\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\Model\bin\Debug\PagedList.xml
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\Model\bin\Debug\PagedList.Mvc.xml
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\Model\obj\Debug\Model.dll
+C:\Users\Admin\Desktop\anh so do\CNPM\MyStore\Model\obj\Debug\Model.pdb
+D:\X\anh so do\CNPM\MyStore\Model\bin\Debug\Model.dll
+D:\X\anh so do\CNPM\MyStore\Model\bin\Debug\Model.pdb
+D:\X\anh so do\CNPM\MyStore\Model\bin\Debug\EntityFramework.dll
+D:\X\anh so do\CNPM\MyStore\Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\X\anh so do\CNPM\MyStore\Model\bin\Debug\PagedList.dll
+D:\X\anh so do\CNPM\MyStore\Model\bin\Debug\PagedList.Mvc.dll
+D:\X\anh so do\CNPM\MyStore\Model\bin\Debug\EntityFramework.xml
+D:\X\anh so do\CNPM\MyStore\Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\X\anh so do\CNPM\MyStore\Model\bin\Debug\PagedList.xml
+D:\X\anh so do\CNPM\MyStore\Model\bin\Debug\PagedList.Mvc.xml
+D:\X\anh so do\CNPM\MyStore\Model\obj\Debug\Model.csprojAssemblyReference.cache
+D:\X\anh so do\CNPM\MyStore\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\X\anh so do\CNPM\MyStore\Model\obj\Debug\Model.csproj.CopyComplete
+D:\X\anh so do\CNPM\MyStore\Model\obj\Debug\Model.dll
+D:\X\anh so do\CNPM\MyStore\Model\obj\Debug\Model.pdb

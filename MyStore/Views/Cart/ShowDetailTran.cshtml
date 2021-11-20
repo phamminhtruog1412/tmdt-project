@@ -1,0 +1,43 @@
+﻿@model IEnumerable<Model.ViewModel.OrderDetailViewModel>
+
+@{
+    ViewBag.Title = "ShowDetailTran";
+    Layout = "~/Views/Shared/_layout.cshtml";
+    decimal? subTotal = 0;
+}
+
+@section category{
+    Chi tiết giao dịch
+}
+
+
+
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th>Hình ảnh</th>
+            <th>Tên sp</th>
+            <th>Số lượng</th>
+            <th>Đơn giá</th>
+            <th>Thành tiền</th>
+        </tr>
+    </thead>
+    <tbody>
+
+        @foreach (var item in Model)
+        {
+            <tr id="row">
+                <td><img src="@item.productImage" width="50" height="80"></td>
+                <td>@item.productName</td>
+                <td>@item.orderDetail.Quanlity</td>
+                <td>@item.orderDetail.Price.Value.ToString("N0")</td>
+                <td>@((item.orderDetail.Quanlity * item.orderDetail.Price).Value.ToString("N0"))</td>
+            </tr>
+            subTotal += item.orderDetail.Quanlity * item.orderDetail.Price;
+        }
+    </tbody>
+
+</table>
+
+<h2>Tổng tiền:</h2>@subTotal.Value.ToString("N0")đ;
+
